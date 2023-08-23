@@ -6,17 +6,7 @@
 </span>
 <br>
 
-<center>
-
 *[Lake Country Hunt Club](https://lakecountryhuntclub.com) is a small business startup located in Wisconsin whose purpose is to provide various hunting services to customers in collaboration with the [Wisconsin Department of Natural Resources (NDR)]().*
-
-</center>
-
-<p align="center">
-  <img src="https://github.com/lakecountryhuntclub/.github/assets/32652297/593dd87c-e1cf-4360-a50a-39490e4ad111" alt="LCHC_main_logo_light (512x512)" >
-</p>
-
-<br>
 
 ## Resources
 
@@ -58,7 +48,11 @@
 - **Owner:** <sam.sullivan@lakecountryhuntclub.com> | @lakecountryhuntclubllc
 - **IT/Developer Support**: <jimmy.briggs@lakecountryhuntclub.com> | @jimbrig  
 
+***
 
+<p align="center">
+  <img src="https://github.com/lakecountryhuntclub/.github/assets/32652297/593dd87c-e1cf-4360-a50a-39490e4ad111" alt="LCHC_main_logo_light (512x512)" >
+</p>
 
 
 <!--
