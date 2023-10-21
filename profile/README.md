@@ -6,7 +6,7 @@
 </span>
 <br>
 
-*[Lake Country Hunt Club](https://lakecountryhuntclub.com) is a small business startup located in Wisconsin whose purpose is to provide various hunting services to customers in collaboration with the [Wisconsin Department of Natural Resources (NDR)]().*
+*[Lake Country Hunt Club](https://lakecountryhuntclub.com) is a small business startup located in Wisconsin whose purpose is to provide various hunting services to customers in collaboration with the [Wisconsin Department of Natural Resources (DNR)]().*
 
 ## Resources
 
